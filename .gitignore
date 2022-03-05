@@ -1,0 +1,10 @@
+# Archivos auxiliares de latexmk
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+
+# Carpetas auxilares
+others/
